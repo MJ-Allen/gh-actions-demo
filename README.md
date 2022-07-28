@@ -35,7 +35,7 @@ To begin, start by creating a boilerplate React application and putting it on Gi
 5. Copy the first two lines of the snippet from GitHub for adding to an existing repo and paste it in the terminal:
 
     ```sh
-    git remote add origin git@github.com:USERNAME/gh-actions-demo.git
+   
     git branch -M main
     ```
 
